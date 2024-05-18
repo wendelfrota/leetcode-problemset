@@ -2,6 +2,9 @@
 **/*.pyo
 **/__pycache__/
 
+**/CMakeLists.txt
+**/cmake-build-debug/
+
 **/env/
 **/venv/
 
