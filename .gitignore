@@ -14,3 +14,4 @@ main
 **/node_modules/
 
 **/*.log
+**/output/
