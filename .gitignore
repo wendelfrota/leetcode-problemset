@@ -4,6 +4,7 @@
 
 **/CMakeLists.txt
 **/cmake-build-debug/
+main
 
 **/env/
 **/venv/
