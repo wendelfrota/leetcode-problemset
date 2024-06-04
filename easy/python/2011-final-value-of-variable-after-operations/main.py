@@ -1,5 +1,5 @@
 class Solution:
-    def finalValueAfterOperations(self, operations: List[str]) -> int:
+    def finalValueAfterOperations(self, operations: list[str]) -> int:
         x = 0
 
         for i in operations:
